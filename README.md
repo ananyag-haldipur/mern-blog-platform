@@ -87,25 +87,25 @@ mern-blog-platform/
 
 # 📸 Screenshots
 
-## 🏠 Home Page
-
-![Home Page](screenshots/home.png)
-
 ## 📝 Register Page
 
-![Register Page](screenshots/register.png)
+![Register Page](screenshots/1.register.png)
 
 ## 🔐 Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/2.login.png)
+
+## 🏠 Home Page
+
+![Home Page](screenshots/3.home.png)
 
 ## ✍️ Create Post Page
 
-![Create Post](screenshots/create-post.png)
+![Create Post](screenshots/4.create-post.png)
 
 ## 💬 Blog Details & Comments
 
-![Blog Details](screenshots/post-details.png)
+![Blog Details](screenshots/5.post-details.png)
 
 ---
 
